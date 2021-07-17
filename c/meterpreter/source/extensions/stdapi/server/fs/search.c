@@ -16,7 +16,7 @@
 #include "fs_local.h"
 #include "search.h"
 
-#define DEBUGTRACE 1
+#define DEBUGTRACE 0
 
 #ifdef __MINGW32__
 const GUID MET_DBGUID_DEFAULT = {0xc8b521fb,0x5cf3,0x11ce,{0xad,0xe5,0x00,0xaa,0x00,0x44,0x77,0x3d}};
